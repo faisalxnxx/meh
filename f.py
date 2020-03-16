@@ -7,7 +7,7 @@
 # |  __  |/ _` |/ __| |/ / _ \ '__| |  ___/ '__/ _ \ 
 # | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
 # |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
-#          Hacking Tools by FAISAL. A
+#          Hacking Tools by F5L. A
 
 import sys
 import random
