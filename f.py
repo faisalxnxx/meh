@@ -75,11 +75,11 @@ print "Gunakan sebaiknya"
 print
 print "Ctrl-C Buat Keluar Cuk"
 print
-print "Author By B4J1N64N T3RH0RM4T"
+print "Author By F4154L A"
 print
-print "My Github :https://github.com/BajinganCyberArmy"
+print "My Github :https://github.com/faisalxnxx/memex/puki/asw/kontol/meh"
 print
-print "Contact :Fb((Fatur CloverID))Wa((0895360561400))"
+print "Contact :Fb((NoNameId))Wa((082372418674))"
 print
 
 email = str(raw_input("(#)(#)===D Masukan ID Korban : "))
