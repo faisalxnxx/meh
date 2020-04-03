@@ -27,9 +27,9 @@ __banner__ = """
 """
 
 print("[+] Facebook Brute Force\n")
-userid = raw_input("[*] Enter [Email|Phone|Username|ID]: Kamu")
+userid = raw_input("[*] Enter [Email|Phone|Username|ID]: ")
 try:
-	passlist = raw_input("[*] Set PATH to passlist: Jelek")
+	passlist = raw_input("[*] Set PATH to passlist: ")
 	if os.path.exists(passlist) != False:
 		print(__banner__)
 		print(" [+] Account to crack : {}".format(userid))
